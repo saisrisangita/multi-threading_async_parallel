@@ -1,0 +1,15 @@
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\Threadpool\bin\Debug\net6.0\Threadpool.exe
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\Threadpool\bin\Debug\net6.0\Threadpool.deps.json
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\Threadpool\bin\Debug\net6.0\Threadpool.runtimeconfig.json
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\Threadpool\bin\Debug\net6.0\Threadpool.dll
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\Threadpool\bin\Debug\net6.0\Threadpool.pdb
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\Threadpool\obj\Debug\net6.0\Threadpool.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\Threadpool\obj\Debug\net6.0\Threadpool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\Threadpool\obj\Debug\net6.0\Threadpool.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\Threadpool\obj\Debug\net6.0\Threadpool.AssemblyInfo.cs
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\Threadpool\obj\Debug\net6.0\Threadpool.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\Threadpool\obj\Debug\net6.0\Threadpool.dll
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\Threadpool\obj\Debug\net6.0\refint\Threadpool.dll
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\Threadpool\obj\Debug\net6.0\Threadpool.pdb
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\Threadpool\obj\Debug\net6.0\Threadpool.genruntimeconfig.cache
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\Threadpool\obj\Debug\net6.0\ref\Threadpool.dll

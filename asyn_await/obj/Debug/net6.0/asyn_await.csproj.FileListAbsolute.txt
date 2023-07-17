@@ -1,0 +1,15 @@
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\asyn_await\bin\Debug\net6.0\asyn_await.exe
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\asyn_await\bin\Debug\net6.0\asyn_await.deps.json
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\asyn_await\bin\Debug\net6.0\asyn_await.runtimeconfig.json
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\asyn_await\bin\Debug\net6.0\asyn_await.dll
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\asyn_await\bin\Debug\net6.0\asyn_await.pdb
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\asyn_await\obj\Debug\net6.0\asyn_await.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\asyn_await\obj\Debug\net6.0\asyn_await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\asyn_await\obj\Debug\net6.0\asyn_await.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\asyn_await\obj\Debug\net6.0\asyn_await.AssemblyInfo.cs
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\asyn_await\obj\Debug\net6.0\asyn_await.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\asyn_await\obj\Debug\net6.0\asyn_await.dll
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\asyn_await\obj\Debug\net6.0\refint\asyn_await.dll
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\asyn_await\obj\Debug\net6.0\asyn_await.pdb
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\asyn_await\obj\Debug\net6.0\asyn_await.genruntimeconfig.cache
+C:\Users\SAILS-DM318\source\repos\Multithreading_asynchronous_parallelprogramming\asyn_await\obj\Debug\net6.0\ref\asyn_await.dll
